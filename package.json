@@ -1,0 +1,22 @@
+{
+  "name": "koa2_test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henry-boter/koa2_test.git"
+  },
+  "keywords": [
+    "hebo7758258"
+  ],
+  "author": "bob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henry-boter/koa2_test/issues"
+  },
+  "homepage": "https://github.com/Henry-boter/koa2_test#readme"
+}
